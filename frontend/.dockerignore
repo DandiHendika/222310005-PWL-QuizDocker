@@ -1,0 +1,12 @@
+# Abaikan dependensi Node.js
+node_modules/
+
+# Abaikan hasil build (jika ada)
+dist/
+
+# Abaikan file environment
+.env*
+
+# Abaikan file .dockerignore dan Dockerfile itu sendiri
+.dockerignore
+Dockerfile

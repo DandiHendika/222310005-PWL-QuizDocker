@@ -1,0 +1,13 @@
+# Abaikan folder virtual environment
+venv/
+
+# Abaikan folder instance database SQLite
+instance/
+
+# Abaikan cache Python
+__pycache__/
+*.pyc
+
+# Abaikan file .dockerignore dan Dockerfile itu sendiri
+.dockerignore
+Dockerfile
